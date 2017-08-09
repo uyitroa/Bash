@@ -1,0 +1,10 @@
+
+
+
+
+
+
+#!/bin/sh
+echo "Result: `expr $* + 12`"
+echo "Welcome to this shit mate" "\n"
+enable -n echo
